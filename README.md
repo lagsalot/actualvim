@@ -23,7 +23,6 @@ This plugin relies on Vim itself, and operating system features not found in Win
 
 Just clone this to `~/Library/Application Support/Sublime Text 3/Packages/actualvim`
 
-
 Actual will launch a controlling instance of Vim for every Sublime Text view you open.
 
 Misc
